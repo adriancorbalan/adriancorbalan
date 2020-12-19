@@ -12,4 +12,4 @@ Also if you want to play my games: https://corbenstudio.itch.io/
 - **LE MANS '66** - *https://corbenstudio.itch.io/game-off-2019*
 
 
-### © ADRIAN CORBALAN. ALL RIGHTS RESERVED.
+#### © ADRIAN CORBALAN. ALL RIGHTS RESERVED.
