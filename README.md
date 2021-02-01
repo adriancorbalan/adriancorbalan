@@ -28,7 +28,7 @@ All links: https://linktr.ee/adriancorbalan
 ### GAMES
 
 - **PORTFOLIO** - *https://corbengames.itch.io/portfolio*
-- **SPACE BATTLE** - *https://store.steampowered.com/app/1309140/Space_Battle/ or https://corbenstudio.itch.io/spacebattle*
+- **SPACE BATTLE** - *https://store.steampowered.com/app/1309140/Space_Battle/ or https://corbengames.itch.io/spacebattle*
 - **BEYOND MARS** - *https://corbengames.itch.io/beyond-mars*
 - **UE4 Learning Path** - *https://corbengames.itch.io/ue04*
 - **LE MANS '66** - *https://corbengames.itch.io/game-off-2019*
