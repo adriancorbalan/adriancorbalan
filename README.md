@@ -8,7 +8,7 @@ Hey there! I'm Adrián Corbalán. I'm currently developing mobile games using Un
 - 🤔 You can ask me about Unity or Git issues.
 - 📫 You can reach me at LinkedIn! => *https://www.linkedin.com/in/adriancorbalan/*
 
-Also if you want to play my games: https://corbengames.itch.io/
+Also if you want to play my games: https://adriancorbalan.itch.io/
 
 All links: https://linktr.ee/adriancorbalan
 
@@ -27,15 +27,15 @@ All links: https://linktr.ee/adriancorbalan
 
 ### GAMES
 
-- **PORTFOLIO** - *https://corbengames.itch.io/portfolio*
-- **SPACE BATTLE** - *https://store.steampowered.com/app/1309140/Space_Battle/ or https://corbengames.itch.io/spacebattle*
-- **BEYOND MARS** - *https://corbengames.itch.io/beyond-mars*
-- **UE4 Learning Path** - *https://corbengames.itch.io/ue04*
-- **LE MANS '66** - *https://corbengames.itch.io/game-off-2019*
-- **BLOCK BALANCE 3D** - *https://corbengames.itch.io/block-balance*
-- **TIME BOXES** - *https://corbengames.itch.io/scorejam-8-timeboxes*
-- **CLICKER DOWN** - *https://corbengames.itch.io/clicker-down*
-- **WAR OF CHRONOS** - *https://corbengames.itch.io/war-of-chronos*
-- **IMPERIALIST** - *https://corbengames.itch.io/imperialist*
+- **PORTFOLIO** - *https://adriancorbalan.itch.io/portfolio*
+- **SPACE BATTLE** - *https://store.steampowered.com/app/1309140/Space_Battle/ or https://adriancorbalan.itch.io/spacebattle*
+- **BEYOND MARS** - *https://adriancorbalan.itch.io/beyond-mars*
+- **UE4 Learning Path** - *https://adriancorbalan.itch.io/ue04*
+- **LE MANS '66** - *https://adriancorbalan.itch.io/game-off-2019*
+- **BLOCK BALANCE 3D** - *https://adriancorbalan.itch.io/block-balance*
+- **TIME BOXES** - *https://adriancorbalan.itch.io/scorejam-8-timeboxes*
+- **CLICKER DOWN** - *https://adriancorbalan.itch.io/clicker-down*
+- **WAR OF CHRONOS** - *https://adriancorbalan.itch.io/war-of-chronos*
+- **IMPERIALIST** - *https://adriancorbalan.itch.io/imperialist*
 
 #### © ADRIAN CORBALAN. ALL RIGHTS RESERVED.
