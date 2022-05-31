@@ -2,7 +2,11 @@
 
 ### 🐱‍🏍 ABOUT 🐱‍🏍
 
-Hey there! I'm Adrián Corbalán. I'm currently developing mobile games using Unity, profile focused on OOP with C#. Focused on the implementation of best practices, performance and research of latest industry trends.
+Hello! I'm Adrián Corbalán, a Game Programmer from Spain, I've been working in the game industry since 2019. I'm currently working at Brave Zebra as Game Programmer on multiple games for PC and console platforms. 
+
+In this site you can see some of my projects that I've been working on my spare time. I can't say anything about current projects because NDAs... 
+
+If you want to reach me, find me on LinkedIn or you can catch me running or training!
 
 - 🌱 I'm currently learning Unity and Unreal Engine.
 - 🤔 You can ask me about Unity or Git issues.
@@ -25,7 +29,7 @@ All links: https://linktr.ee/adriancorbalan
 
 ---
 
-### GAMES
+### GAMES (All for Free)
 
 - **PORTFOLIO** - *https://adriancorbalan.itch.io/portfolio*
 - **SPACE BATTLE** - *https://store.steampowered.com/app/1309140/Space_Battle/ or https://adriancorbalan.itch.io/spacebattle*
