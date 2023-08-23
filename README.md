@@ -1,6 +1,6 @@
 ## Hello there!! 🤗
 
-### 🐱‍🏍 ABOUT 🐱‍🏍
+### ABOUT 
 
 Hello! I'm Adrián Corbalán, a Game Programmer from Spain, I've been working in the game industry since 2019. I'm currently working at Brave Zebra as Game Programmer on multiple games for PC and console platforms. 
 
