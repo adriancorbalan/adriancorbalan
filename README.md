@@ -8,8 +8,6 @@ Over the past two years at Brave Zebra, I have been responsible for designing an
 
 This site showcases some of the projects I've worked on in my spare time. Outside of work, I enjoy programming and prototyping to continuously improve my skills. I also compete in high-level triathlons across the country. I have published games on Google Play and have a game on Steam, "Space Battle". My motivation is driven by a constant pursuit of personal growth.
 
-- 🌱 I'm currently learning Unity and Unreal Engine.
-- 🤔 Feel free to ask me about Unity or Git topics.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/adriancorbalan/).
 
 You can also play my games on [Itch.io](https://adriancorbalan.itch.io/).
