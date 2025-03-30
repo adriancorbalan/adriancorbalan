@@ -2,9 +2,7 @@
 
 ### About Me
 
-Hello! I'm Adrián Corbalán, a Game Programmer from Spain. I've been working in the game industry since 2019, currently employed at Brave Zebra where I contribute to multiple PC and console games.
-
-Over the past two years at Brave Zebra, I have been responsible for designing and implementing AI systems and introducing new features in *Empyrion - Galactic Survival*.
+Hello! I'm Adrián Corbalán, a Game Programmer from Spain. I've been working in the game industry since 2019.
 
 This site showcases some of the projects I've worked on in my spare time. Outside of work, I enjoy programming and prototyping to continuously improve my skills. I also compete in high-level triathlons across the country. I have published games on Google Play and have a game on Steam, "Space Battle". My motivation is driven by a constant pursuit of personal growth.
 
