@@ -82,23 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriancorbalan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancorbalan&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriancorbalan&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adriancorbalan&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🎮 Featured Games
 
 ### 🔴 Coming Soon — Wishlist Now!
