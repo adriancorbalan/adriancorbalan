@@ -1,0 +1,46 @@
+name: Update Steam Devlogs
+
+on:
+  schedule:
+    # Every 6 hours, on the hour
+    - cron: '0 */6 * * *'
+  workflow_dispatch:       # manual trigger from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update-devlogs.py'
+      - '.github/workflows/update-devlogs.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-devlogs
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run devlog sync script
+        run: python scripts/update-devlogs.py
+
+      - name: Commit & push changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes — nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(devlogs): sync latest Steam announcements"
+          git push
