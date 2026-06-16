@@ -126,8 +126,37 @@ Auto-synced every 6h from Steam — latest updates from my published titles.
 
 
 <!-- DEVLOGS:START -->
-Loading devlogs from Steam… come back in a few hours after the first sync runs.
+#### 🪐 [Development Blog: Mars Clicker is taking shape!](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788125)
+<sub>**Mars Clicker** · May 14, 2026</sub>
 
+> Hello explorers! 👋Mars Clicker is taking shape — and there's big newsIt's been a while since the last devlog, but it hasn't been quiet time. A lot has changed…
+
+#### 🚀 [Security & Maintenance Update](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365104902)
+<sub>**Space Battle** · Dec 23, 2025</sub>
+
+> Hello again pilots! Maintenance UpdateThis update applies recent Unity security patches to keep Space Battle stable and secure. If you experience any issues…
+
+#### 🪐 [Development Blog: a new direction.](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031308404)
+<sub>**Mars Clicker** · Oct 12, 2025</sub>
+
+> Hello explorers! 👋 Over the past few weeks, I’ve been experimenting a lot with Mars Clicker — testing what feels most fun and satisfying. And after many…
+
+#### 🪐 [Development Blog: First contact.](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891664297)
+<sub>**Mars Clicker** · Jul 01, 2025</sub>
+
+> Hello explorers!Mars Clicker is finally starting to take shape! What you see in the images below are the initial phase of the colony on Mars and a first…
+
+#### 🚀 [Patch 1.6](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199416734)
+<sub>**Space Battle** · Jun 06, 2025</sub>
+
+> Hello again pilots!We are back with a new update. Once again we are improving the core of the game. I wanted to restructure certain basics and with that add…
+
+#### 🚀 [Development Blog: Recalibration.](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800357164562521)
+<sub>**Space Battle** · May 27, 2025</sub>
+
+> Hello pilots! Updates for Space Battle continue. There are still a few tweaks to go before version 1.6 is complete, but here's a sneak preview.
+
+<sub>_Last sync: 2026-06-16 06:09 UTC_</sub>
 <!-- DEVLOGS:END -->
 
 ## 🤝 Let's Connect
