@@ -120,6 +120,16 @@
 
 ---
 
+📜 Latest Devlogs
+
+Auto-synced every 6h from Steam — latest updates from my published titles.
+
+
+<!-- DEVLOGS:START -->
+Loading devlogs from Steam… come back in a few hours after the first sync runs.
+
+<!-- DEVLOGS:END -->
+
 ## 🤝 Let's Connect
 
 <p align="center">
