@@ -156,7 +156,7 @@ Auto-synced every 6h from Steam — latest updates from my published titles.
 
 > Hello pilots! Updates for Space Battle continue. There are still a few tweaks to go before version 1.6 is complete, but here's a sneak preview.
 
-<sub>_Last sync: 2026-06-26 14:00 UTC_</sub>
+<sub>_Last sync: 2026-06-26 19:27 UTC_</sub>
 <!-- DEVLOGS:END -->
 
 ## 🤝 Let's Connect
