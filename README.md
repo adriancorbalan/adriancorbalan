@@ -126,6 +126,11 @@ Auto-synced every 6h from Steam — latest updates from my published titles.
 
 
 <!-- DEVLOGS:START -->
+#### 🪐 [Mars Clicker Demo is out!](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571345)
+<sub>**Mars Clicker** · Jul 03, 2026</sub>
+
+> Hello everyone! 👋I’m thrilled to announce that the Mars Clicker demo is now live! 🎉🕹️ Download the free demo: At last, you can play a small section of the…
+
 #### 🪐 [Development Blog: Mars Clicker is taking shape!](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788125)
 <sub>**Mars Clicker** · May 14, 2026</sub>
 
@@ -141,11 +146,6 @@ Auto-synced every 6h from Steam — latest updates from my published titles.
 
 > Hello explorers! 👋 Over the past few weeks, I’ve been experimenting a lot with Mars Clicker — testing what feels most fun and satisfying. And after many…
 
-#### 🪐 [Development Blog: First contact.](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891664297)
-<sub>**Mars Clicker** · Jul 01, 2025</sub>
-
-> Hello explorers!Mars Clicker is finally starting to take shape! What you see in the images below are the initial phase of the colony on Mars and a first…
-
 #### 🚀 [Patch 1.6](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199416734)
 <sub>**Space Battle** · Jun 06, 2025</sub>
 
@@ -156,7 +156,7 @@ Auto-synced every 6h from Steam — latest updates from my published titles.
 
 > Hello pilots! Updates for Space Battle continue. There are still a few tweaks to go before version 1.6 is complete, but here's a sneak preview.
 
-<sub>_Last sync: 2026-07-03 18:59 UTC_</sub>
+<sub>_Last sync: 2026-07-04 01:51 UTC_</sub>
 <!-- DEVLOGS:END -->
 
 ## 🤝 Let's Connect
